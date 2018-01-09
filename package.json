@@ -1,12 +1,12 @@
 {
   "name": "sevdesk-voucher-upload-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "sevDesk Voucher Upload Tool",
   "scripts": {
     "start": "node ./main.js"
   },
   "bin": {
-    "sevdesk-voucher-upload": "./main.js"
+    "sevdesk-voucher-upload": "node ./main.js"
   },
   "author": {
     "name": "marvin + konsorten GmbH",
