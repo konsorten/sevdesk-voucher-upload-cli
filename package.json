@@ -1,0 +1,31 @@
+{
+  "name": "sevdesk-voucher-upload-cli",
+  "version": "0.1.0",
+  "description": "sevDesk Voucher Upload Tool",
+  "scripts": {
+    "start": "node ./main.js"
+  },
+  "bin": {
+    "sevdesk-voucher-upload": "./main.js"
+  },
+  "author": {
+    "name": "marvin + konsorten GmbH",
+    "email": "info@konsorten.de",
+    "url": "http://www.konsorten.de"
+  },
+  "keywords": [
+    "sevDesk"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/konsorten/sevdesk-voucher-upload-cli.git"
+  },
+  "homepage": "https://github.com/konsorten/sevdesk-voucher-upload-cli",
+  "dependencies": {
+    "fs-extra-promise": "^1.0.1",
+    "sevdesk-voucher-upload": "^0.1.3",
+    "yargs": "^10.0.3"
+  },
+  "devDependencies": {}
+}
