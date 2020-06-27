@@ -1,6 +1,8 @@
 # sevDesk Voucher Upload Tool
 
-This library provides an easy to use class to upload vouchers to a [sevDesk](http://www.sevdesk.de) account.
+**This tool is no longer actively maintained! Pleasee see https://github.com/tfohlmeister/sevdesk-voucher-uploader for an alternative!**
+
+This tool provides an easy to use entrypoint to upload vouchers to a [sevDesk](http://www.sevdesk.de) account.
 
 ## Install
 
